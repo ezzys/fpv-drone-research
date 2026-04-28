@@ -338,19 +338,89 @@ FINISHED GOODS / SHIPPING
 
 ## RESEARCH SOURCES
 
+### Industry & Production
 1. War Quants — "Factory-to-Frontline Pipeline: Ukraine's 2025 Drone Surge" (Mar 2025)
 2. Ukraine's Arms Monitor — "TAF Drones: 40,000 FPV/month production" (Sep 2024)
 3. Rich PCBA — "How to Build an FPV Drone Factory: Essential Guide" (Jan 2026)
-4. VSD Motor — "FPV UAV Motor Selection Guide: KV Value, Propellers & Power"
-5. LigPower — "The Ultimate FPV Drone Motor Guide 2025"
-6. LigPower — "A Selection Guide to 4-in-1 ESC for FPV Drones"
-7. KingRays Carbon — "Custom Carbon Fiber Drone Frame Cost Breakdown"
-8. Oscar Liang — "FPV Drone Guide" & "How to Build an FPV Drone"
-9. Pyrodrone — "Beginner's Guide to FPV Drone Soldering"
-10. ExpressLRS — Official Documentation
-11. Unmanned Tech Shop — "What is ELRS? The FPV Radio Control Standard"
-12. 3DALT — "Most Common Drone Camera Systems: Latency, Cost & Resolution Comparison"
-13. Forbes — "How Ukraine Is Building A Drone Army At Its Kitchen Tables" (Mar 2024)
+4. Forbes — "How Ukraine Is Building A Drone Army At Its Kitchen Tables" (Mar 2024)
+5. VSD Motor — "FPV UAV Motor Selection Guide: KV Value, Propellers & Power"
+6. LigPower — "The Ultimate FPV Drone Motor Guide 2025"
+7. LigPower — "A Selection Guide to 4-in-1 ESC for FPV Drones"
+8. KingRays Carbon — "Custom Carbon Fiber Drone Frame Cost Breakdown"
+9. InsideFPV — "Build an FPV Drone Components Guide"
+
+### Engineering Papers & Schematics
+10. Texas Instruments — "Motor-control considerations for electronic speed control in drones" (SLYT692)
+11. Infineon — "Drone Electronic Speed Controller (ESC) with XMC & Gate Driver" (PDF)
+12. UNTAN — "Design And Development of Flight Controller For Quadcopter Drone" (PDF)
+13. IIT Madras — "Drone Design And Fabrication Based On Open-Source" (ee19m004)
+14. University of Twente — "Embedded thrust estimator design of brushless DC motor" (Menezes)
+15. o-gs/dji-hardware-schematics — Community reverse-engineered DJI KiCad schematics
+16. DJI Firmware Tools Wiki — P3X ESC center board documentation
+
+### DIY Build Guides
+17. Oscar Liang — "How to Build an FPV Drone Tutorial (DJI O4 Pro Air Unit)"
+18. Oscar Liang — "FPV Drone Guide" (oscarliang.com)
+19. Instructables — "The Ultimate Guide to Drones: 22 Steps"
+20. DojoForDrones — "Learn How to Build Your Own Drone from Scratch"
+21. CADDxfpv — "Beginner's Guide: How to Build Your First FPV Drone"
+22. Robocraze — "Drone Parts List for Building a Drone"
+
+### China Sources
+23. T-Motor (uav-en.tmotor.com) — UAV motor/ESC propulsion systems
+24. AliExpress — "DIY Drone Components List" wiki
+25. Alibaba — "How to Source Drone Parts in China" sourcing guide
+26. Global Sources — China wholesale DJI drone parts suppliers
+27. AliExpress FPV Drone Parts Wholesale — wholesale portal
+28. CAD models — GrabCAD drone frame library
+29. MakerWorld — "3D Printable 5-inch Drone Frame"
+
+### Open Source Projects
+30. Betaflight — github.com/betaflight/betaflight (FC firmware)
+31. ExpressLRS — expresslrs.org (RC link, 900MHz/2.4GHz)
+32. BLHeli_32 — blheli32.com (ESC firmware)
+33. PX4 Autopilot — github.com/px4/PX4-Autopilot
+34. ArduPilot — ardupilot.org
+35. iNavFlight — github.com/iNavFlight/inav
+36. janesmae/awesome-drones — GitHub curated list
+37. Matthias84/awesome-flying-fpv — GitHub 600+ star curated list
+38. RubenCodeforges/ardudeck — Complete GCS combining ArduPilot + Betaflight
+
+### Motor & ESC DIY Resources
+39. Cadenkraft — "Creating a 3D Printed Brushless Motor"
+40. PCBWay — "Brushless Motor Thrust Stand with Arduino"
+41. RCGroups — "DIY Budget Automated Thrust Stand feat. Arduino"
+42. Hackaday — "Making A Brushless DC Motor Winding Machine"
+43. DroneMesh — "DIY ESC 2019" (YouTube schematic walkthrough)
+44. r/diydrones — "ESC schematic" community discussion
+
+### Thrust Measurement / Test Stands
+45. PCBWay — Arduino Brushless Motor Thrust Stand
+46. RCGroups Thread #2816516 — DIY Automated Thrust Stand (amp/voltage/watt/efficiency)
+47. Instructables — "Brushless Motor Thrust Stand" (7 steps with Arduino)
+48. Reddit — "Thrust Stand using Arduino Nano" (r/arduino)
+
+### 3D Printing / Frame DIY
+49. MakerWorld — Free 3D printable 5-inch FPV frame
+50. GrabCAD — FPV Drone Frame PURIST DC 5/6 (AstroX J5 inspired)
+51. Reddit r/3Dprinting — "Open-Source Arduino Drone SRD-1" (fully 3D-printed)
+52. MDPI — "A 3D-Printed, Open-Source, Low-Cost Drone Platform for STEM Education"
+53. YouTube — "Building a 3D Printed Brushless DC Motor from Scratch"
+54. YouTube — "DIY BLDC Motor" (3D printed design walkthrough)
+
+### Chinese FPV YouTube (Mandarin with subtitles)
+55. MoonshotFPV — 組裝FPV穿越機結構與零件解析 (FPV assembly structure & parts)
+56. NewBeeDrone — 自組fpv穿越機，装机工具配件该如何去选 (tools & accessories selection)
+57. 特里（视频大拍档）— 高清穿越机组装到起飞全流程教程 (HD FPV build to flight)
+58. DRONEs — 史上最详穿越机拆解组件介绍 (most detailed FPV component breakdown)
+
+---
+
+## GITHUB REPOSITORY
+
+**https://github.com/ezzys/fpv-drone-research**
+
+Contains: FPV_DRONE_MASS_PRODUCTION_RESEARCH.md (this document) + README.md with categorized DIY links
 
 ---
 
